@@ -1,3 +1,3 @@
 # Snake-in-html5
-Snake coded entirely by me  
+Snake in html5
 Use wasd to move
